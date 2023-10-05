@@ -1,0 +1,87 @@
+body{
+  background-color: rgb(35, 37, 34);
+}
+
+.profilePic{
+  width:317px;
+  height: 317px;
+  margin: 0px 0px;
+  padding: 0px 0px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+Header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #1A1B21;
+  padding: 0 0;
+  margin: 0px 0px;
+  width: 317px;
+  border-radius: 0px 0px 10px 10px;
+}
+.nameSurname{
+margin: 0 0;
+padding: 15px 0 0 0;
+font-family:  'Arial Narrow Bold', sans-serif;
+text-align: center;
+color: #F5F5F5;
+}
+
+.role{
+
+font-family: 'Inter';
+text-align: center;
+color: #F3BF99;
+margin:10px 0;
+
+}
+
+.site{
+
+text-align: center;
+font-family: 'Inter';
+color: #F5F5F5;
+margin-top: 0;
+}
+
+.buttons{
+  text-align: center;
+}
+
+.abandint{
+  padding:0 36px;
+  margin: none;
+}
+
+.abandint >h3{
+  color: #F5F5F5;
+}
+
+.abandint >p{
+  color: #DCDCDC;
+}
+
+.socials{
+  width: 100%;
+  
+  display: flex;
+  justify-content:space-evenly;
+  align-items: baseline;
+  padding: 20px 0px;
+  background-color: #161619;
+  border-radius: 10px;
+}
+
+#app{
+  display: flex;
+  flex-direction: column;
+}
+

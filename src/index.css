@@ -1,0 +1,7 @@
+#root{
+  background-color: rgb(35, 37, 34);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
